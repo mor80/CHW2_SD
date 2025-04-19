@@ -1,0 +1,14 @@
+bin/
+obj/
+out/
+publish/
+TestResults/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.dbmdl
+.idea/
+*.DotSettings*
+.ReSharper*/
+resharper-report.xml
