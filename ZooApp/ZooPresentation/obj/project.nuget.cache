@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUR6qxUJzeQ=",
+  "success": true,
+  "projectFilePath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooPresentation/ZooPresentation.csproj",
+  "expectedPackageFiles": [
+    "/Users/emreguuv/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.3.25171.5/microsoft.extensions.dependencyinjection.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.3.25171.5/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.logging/10.0.0-preview.3.25171.5/microsoft.extensions.logging.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0-preview.3.25171.5/microsoft.extensions.logging.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.options/10.0.0-preview.3.25171.5/microsoft.extensions.options.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.primitives/10.0.0-preview.3.25171.5/microsoft.extensions.primitives.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/swashbuckle.aspnetcore/8.1.1/swashbuckle.aspnetcore.8.1.1.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.1/swashbuckle.aspnetcore.swagger.8.1.1.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.1/swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.1/swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-preview.3.25171.5/system.diagnostics.diagnosticsource.10.0.0-preview.3.25171.5.nupkg.sha512"
+  ],
+  "logs": []
+}

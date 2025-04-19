@@ -1,0 +1,12 @@
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/bin/Debug/net9.0/ZooDomain.deps.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/bin/Debug/net9.0/ZooDomain.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/bin/Debug/net9.0/ZooDomain.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.AssemblyInfoInputs.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.AssemblyInfo.cs
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.csproj.CoreCompileInputs.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.sourcelink.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/refint/ZooDomain.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ZooDomain.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooDomain/obj/Debug/net9.0/ref/ZooDomain.dll

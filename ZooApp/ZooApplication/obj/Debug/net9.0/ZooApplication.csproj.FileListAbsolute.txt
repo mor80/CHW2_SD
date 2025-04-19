@@ -1,0 +1,16 @@
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/bin/Debug/net9.0/ZooApplication.deps.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/bin/Debug/net9.0/ZooApplication.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/bin/Debug/net9.0/ZooApplication.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/bin/Debug/net9.0/ZooDomain.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/bin/Debug/net9.0/ZooDomain.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.csproj.AssemblyReference.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.AssemblyInfoInputs.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.AssemblyInfo.cs
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.csproj.CoreCompileInputs.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.sourcelink.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooAppli.9C20AA85.Up2Date
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/refint/ZooApplication.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ZooApplication.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Design/CHW2_SD/ZooApp/ZooApplication/obj/Debug/net9.0/ref/ZooApplication.dll
